@@ -1,0 +1,4 @@
+MarkovAlgorithm.MainActivity, MarkovAlgorithm;md5db6275bc0a1d256f3b939fa77aefc0da.MainActivity
+MarkovAlgorithm.MainActivity, MarkovAlgorithm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db6275bc0a1d256f3b939fa77aefc0da.MainActivity
+MarkovAlgorithm.MainActivity;md5db6275bc0a1d256f3b939fa77aefc0da.MainActivity
+markovalgorithm.MainActivity;md5db6275bc0a1d256f3b939fa77aefc0da.MainActivity

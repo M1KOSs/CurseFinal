@@ -1,0 +1,8 @@
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\MarkovAlgorithm.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\Mono.Android.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\mscorlib.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\System.Core.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\System.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\System.Xml.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\assets\System.ServiceModel.Internals.dll

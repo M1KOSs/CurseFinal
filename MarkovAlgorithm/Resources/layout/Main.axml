@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout2">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/original"
+        android:hint="Original Word "
+        android:inputType="text" />
+    <Button
+        android:text="Accept Original Word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ACCEPT" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="79.0dp"
+        android:id="@+id/linearLayout1">
+        <EditText
+            android:layout_width="154.0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/rule1"
+            android:hint="First Rule "
+            android:inputType="text" />
+        <EditText
+            android:layout_width="136.5dp"
+            android:layout_height="match_parent"
+            android:id="@+id/rule2"
+            android:hint="Second Rule "
+            android:inputType="text" />
+        <Button
+            android:text="Next Rule"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/nextRule" />
+    </LinearLayout>
+    <Button
+        android:text="Ansver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ansver" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="46.0dp"
+        android:id="@+id/RESULT"
+        android:hint="RESULT" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="43.5dp"
+        android:id="@+id/textView1"
+        android:layout_marginBottom="21.5dp"
+        android:text="Press down for see all rule and all steps" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="56.0dp"
+        android:id="@+id/spinner1" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="58.0dp"
+        android:id="@+id/spinner2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="49.0dp"
+        android:id="@+id/linearLayout3">
+        <Button
+            android:text="Clear"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/Clear" />
+        <Button
+            android:text="Help"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/Help" />
+        <Button
+            android:text="Exit"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/Exit" />
+    </LinearLayout>
+</LinearLayout>

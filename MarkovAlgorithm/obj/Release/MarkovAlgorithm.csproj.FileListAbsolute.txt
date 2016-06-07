@@ -1,0 +1,14 @@
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Release\MarkovAlgorithm.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Release\MarkovAlgorithm.pdb
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Release\MarkovAlgorithm.MarkovAlgorithm.apk
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Release\MarkovAlgorithm.MarkovAlgorithm-Signed.apk
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\MarkovAlgorithm.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\MarkovAlgorithm.pdb
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\android\bin\MarkovAlgorithm.MarkovAlgorithm.apk
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\res\layout\main.xml
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\res\values\strings.xml
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\res\drawable\icon.png
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\R.cs.flag
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\uploadflags.txt
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Release\MarkovAlgorithm.dll.mdb
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Release\MarkovAlgorithm.dll.mdb

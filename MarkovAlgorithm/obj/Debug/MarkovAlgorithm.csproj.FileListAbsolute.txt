@@ -1,0 +1,15 @@
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.pdb
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.MarkovAlgorithm.apk
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.MarkovAlgorithm-Signed.apk
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.dll
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.pdb
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\android\bin\MarkovAlgorithm.MarkovAlgorithm.apk
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\res\layout\main.xml
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\res\values\strings.xml
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\res\drawable\icon.png
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\R.cs.flag
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\uploadflags.txt
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.csprojResolveAssemblyReference.cache
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.dll.mdb
+D:\MarkovAlgorithm — копия\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.dll.mdb
